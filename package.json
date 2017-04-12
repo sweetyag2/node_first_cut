@@ -1,0 +1,23 @@
+{
+  "name": "node_first_cut",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetyag2/node_first_cut.git"
+  },
+  "keywords": [
+    "node",
+    "abirami"
+  ],
+  "author": "Abirami Gopinath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweetyag2/node_first_cut/issues"
+  },
+  "homepage": "https://github.com/sweetyag2/node_first_cut#readme"
+}
