@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sweetyag2/node_first_cut/issues"
   },
-  "homepage": "https://github.com/sweetyag2/node_first_cut#readme"
+  "homepage": "https://github.com/sweetyag2/node_first_cut#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
